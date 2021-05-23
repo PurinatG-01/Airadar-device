@@ -31,8 +31,8 @@ int loop_count = 0;
 
 
 // WiFi
-#define SECRET_SSID "Sanbundit_2.4G"
-#define SECRET_PASS "foilfame"
+#define SECRET_SSID "XXX"
+#define SECRET_PASS "XXX"
 char ssid[] = SECRET_SSID;
 char pass[] = SECRET_PASS;
 
